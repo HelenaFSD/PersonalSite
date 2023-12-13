@@ -1,0 +1,34 @@
+#header {
+  background-color: #fcefe1;
+}
+
+#contact {
+  background-color: #fcefe1;
+}
+
+#copyright {
+  background-color: #91623F;
+  color: antiquewhite;
+}
+
+h1 {
+  font-family: 'Marck Script';
+  font-size: 6rem;
+}
+
+.corners1 {
+  border-radius: 50%;
+}
+
+.corners2 {
+  border-radius: 25px;
+}
+
+h2 {
+  font-family: 'Marck Script';
+  font-size: 2.5rem;
+}
+
+.background {
+  background-color: #91623F;
+}
